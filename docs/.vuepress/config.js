@@ -14,6 +14,8 @@ module.exports = {
     extendsMarkdown: (md) => {
 
     },
+
+	base: '/vercel-test/',
     bundler: '@vuepress/bundler-webpack',
 
 
