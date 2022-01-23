@@ -9,13 +9,11 @@
 
 const { path } = require("@vuepress/utils");
 module.exports = {
-    //base: '/REPO/',//如果你准备发布到 https://<USERNAME>.github.io/<REPO>/ ，也就是说你的仓库地址是 https://github.com/<USERNAME>/<REPO> ，则将 base 设置为 "/<REPO>/"。
+    base: '/vercel-test/',//如果你准备发布到 https://<USERNAME>.github.io/<REPO>/ ，也就是说你的仓库地址是 https://github.com/<USERNAME>/<REPO> ，则将 base 设置为 "/<REPO>/"。
 
     extendsMarkdown: (md) => {
 
     },
-
-	base: '/vercel-test/',
     bundler: '@vuepress/bundler-webpack',
 
 
