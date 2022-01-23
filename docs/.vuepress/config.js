@@ -14,7 +14,6 @@ module.exports = {
     extendsMarkdown: (md) => {
 
     },
-    dest: 'public',
     bundler: '@vuepress/bundler-webpack',
 
 
