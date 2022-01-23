@@ -3,7 +3,7 @@
 非常感谢你使用Aurora主题，当你看到这个页面的时候，说明你已经使用[Aurora脚手架](https://github.com/vuepress-aurora/theme-cli)搭建好博客了，如果你还没有运行成功，那么请先看一下[这个视频](https://ooszy.cco.vin/theme-template/%E4%B8%BB%E9%A2%98%E5%AE%89%E8%A3%85.mp4)，在你配置博客之前，请先阅读该[文章](https://aurora.xcye.xyz/issue/)，对你的博客配置很有帮助，一定要读
 
 如果你在使用该主题的过程中，有任何的问题，都可以通过以下方式联系我
-
+sdf
 | QQ                                                           | 主题交流群                                                   | 微信                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <img src="https://ooszy.cco.vin/img/blog-note/image-20211024233620332.png?x-oss-process=style/pictureProcess1" style="zoom:33%;" /> | <img src="https://ooszy.cco.vin/img/blog-note/image-20211024233827133.png?x-oss-process=style/pictureProcess1" alt="image-20211024233827133" style="zoom:33%;" /> | <img src="https://ooszy.cco.vin/img/blog-note/image-20211024233735110.png?x-oss-process=style/pictureProcess1" alt="image-20211024233735110" style="zoom: 39%;" /> |
