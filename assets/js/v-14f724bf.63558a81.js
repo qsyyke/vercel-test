@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunka=self.webpackChunka||[]).push([[8069],{4770:(t,e,a)=>{a.r(e),a.d(e,{data:()=>r});const r={key:"v-14f724bf",path:"/mood/",title:"",lang:"zh-CN",frontmatter:{layout:"Mood",slug:"aurora-mood"},excerpt:"",headers:[],git:{}}},8784:(t,e,a)=>{a.r(e),a.d(e,{default:()=>o});const r={},o=(0,a(3744).Z)(r,[["render",function(t,e){return null}]])}}]);
